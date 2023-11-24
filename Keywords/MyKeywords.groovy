@@ -24,7 +24,7 @@ public class MyKeywords {
 	def hello() {
 		println "Hello world.."
 	}
-	
+
 	@Keyword
 	def helloUser(String user) {
 		println "Hello "+user

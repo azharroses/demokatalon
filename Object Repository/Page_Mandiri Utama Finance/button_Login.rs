@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>2fa24d59-585e-49fb-ba7b-fe0efae23d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-button-base.form-actions__signin.mat-primary.mat-raised-button.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cd5b7b0-28c1-40aa-bc3e-efca3d30d70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base form-actions__signin mat-primary mat-raised-button cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>f1898b34-ca80-422f-b112-5487dee0e106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>661eedb0-649c-49c5-a496-a11602a71f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login </value>
+      <webElementGuid>99eb9fbe-eb8c-491e-9265-13e4615e4628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/login[@class=&quot;ng-star-inserted&quot;]/auth-layout[1]/div[@class=&quot;auth-page&quot;]/div[@class=&quot;auth-page__content-auth&quot;]/div[@class=&quot;auth-page__content-wraper&quot;]/div[@class=&quot;auth-page__content-box&quot;]/div[@class=&quot;content-user&quot;]/bgs-form[@class=&quot;form-actions&quot;]/form[@class=&quot;position-relative ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row row-cols-1&quot;]/div[@class=&quot;col-12 undefined ng-star-inserted&quot;]/div[1]/bgs-component[@class=&quot;ng-star-inserted&quot;]/div[1]/bgs-button[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base form-actions__signin mat-primary mat-raised-button cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>5f1bfc50-b312-4530-be91-cdbb2da1114a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>98346fad-148e-4581-a90e-0ba5b004024c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='visibility_off'])[1]/following::button[1]</value>
+      <webElementGuid>53dddd4a-dd8b-472b-992a-47a89a49b93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>d2082b59-8412-428c-a2fc-b00f789e7ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automate Your Finance'])[1]/preceding::button[1]</value>
+      <webElementGuid>03efbe69-bcfe-4ced-8e69-df14526a888c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/bgs-button/div/button</value>
+      <webElementGuid>581bc2f4-407a-4dc2-8629-07d9e4a6b6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
+      <webElementGuid>2d15c716-b2d6-4cb1-ba73-fafb46dcec38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
